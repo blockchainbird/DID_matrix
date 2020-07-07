@@ -1,5 +1,6 @@
 # DID_matrix
 
+
 Personal ranking tool DID methods [registered at W3C](https://w3c-ccg.github.io/did-method-registry/)
 
 ## Philosophy
@@ -25,6 +26,7 @@ Based on objective `scores` (compy or explain) and subjective `weights` (opinion
 4. Timeline and roadmap (any present? sticked to ….?)
 5. Quality of the method description: Completeness, Interoperability, creativity, uniqueness
 6. Ease of use of the method (operational, webservice for testing, sandbox, examples, blockchains / DLTs to create the DIDs
+7. Erwin specifics
 
 # Default scores and timestamps
 We'll provide default scores for registered methods against these criteria and use a spreadsheet to calculate marks. We will add the timestamp of our assessment and explain the score. Any users could alter these scores and weights.
