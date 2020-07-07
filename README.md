@@ -19,12 +19,12 @@ A list of objective criteria has been structured into a spreadsheet. The spreads
 Based on objective `scores` (compy or explain) and subjective `weights` (opinion).
 
 # Main categories
-A. github / bitbucket activity: code, people, issues, wiki, forks, branches. (numbers and date)
-B. (de)centralisation: any intermediation? (steering groups, ownership, investors, patents, licenses)
-C. Recent communication (number and date of interactions in social media about the method)
-D. Timeline and roadmap (any present? sticked to ….?)
-E. Quality of the method description: Completeness, Interoperability, creativity, uniqueness
-F. Ease of use of the method (operational, webservice for testing, sandbox, examples, blockchains / DLTs to create the DIDs
+1. github / bitbucket activity: code, people, issues, wiki, forks, branches. (numbers and date)
+2. (de)centralisation: any intermediation? (steering groups, ownership, investors, patents, licenses)
+3. Recent communication (number and date of interactions in social media about the method)
+4. Timeline and roadmap (any present? sticked to ….?)
+5. Quality of the method description: Completeness, Interoperability, creativity, uniqueness
+6. Ease of use of the method (operational, webservice for testing, sandbox, examples, blockchains / DLTs to create the DIDs
 
 # Default scores and timestamps
 We'll provide default scores for registered methods against these criteria and use a spreadsheet to calculate marks. We will add the timestamp of our assessment and explain the score. Any users could alter these scores and weights.
