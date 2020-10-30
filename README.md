@@ -4,10 +4,10 @@ Personal ranking tool DID methods [registered at W3C](https://w3c-ccg.github.io/
 
 ## Philosophy
 
-Why are we shedding a light on the quality and status of distinctive DID methods
-* an essential topic for personal freedom
+Why shed a light on the quality and status of distinctive DID methods?
+* it's an essential topic for personal freedom
 * real developments are not transparent
-* it is a complex and extensive field
+* it's a complex and extensive field
 
 How could the tool be used and what are the expected results?
 * Filter and select DID methods for your organisational or personal use
@@ -23,7 +23,7 @@ Based on objective `scores` (compy or explain) and subjective `weights` (opinion
 2. (de)centralisation: any intermediation? (steering groups, ownership, investors, patents, licenses)
 3. Recent communication (number and date of interactions in social media about the method)
 4. Timeline and roadmap (any present? sticked to ….?)
-5. Quality of the method description: Completeness, Interoperability, creativity, uniqueness
+5. Quality of the method description: completeness, interoperability, creativity, uniqueness
 6. Ease of use of the method (operational, webservice for testing, sandbox, examples, blockchains / DLTs to create the DIDs
 7. another one
 
